@@ -27,7 +27,8 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="60dp"
-                android:src="@drawable/avatar_9"/>
+                android:src="@drawable/avatar_9"
+                android:contentDescription="@string/first_name"/>
 
             <TextView
                 android:id="@+id/profile_name"
